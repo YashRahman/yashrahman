@@ -64,3 +64,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashRahman&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
+## 🐍 Contribution Snake
+
+![snake](https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake.svg)
