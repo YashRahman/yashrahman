@@ -1,97 +1,180 @@
-# <div align="center">✨ Yash Rahman ✨</div>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=E6C068&center=true&vCenter=true&width=700&lines=Building+Beautiful+Web+Experiences;Creative+Web+Developer;Automation+Enthusiast;Creating+Interactive+Websites" />
-</p>
+<!-- Animated banner with floating hearts -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Yash%20Rahman&fontSize=70&fontColor=fff&fontAlignY=38&desc=✨%20crafting%20love%20through%20code%20✨&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
----
+</div>
 
-## 🧑‍💻 About Me
+<div align="center">
 
-* 🌙 Developer focused on **beautiful web experiences**
-* ⚡ Building **interactive websites & creative projects**
-* 🤖 Interested in **automation and backend logic**
-* 🧠 Always experimenting and learning new tech
+<!-- Heartbeat line -->
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=3000&pause=1200&color=FF85A1&center=true&vCenter=true&width=750&lines=💖+Building+Beautiful+Web+Experiences;🌸+Crafting+Romantic+%26+Surprise+Webpages;✨+Turning+Feelings+into+Pixels;🎀+Where+Code+Meets+Creativity;💫+Making+the+Web+Fall+in+Love+with+Itself" alt="Typing SVG" />
 
----
+<br/>
 
-## 🚀 What I'm Known For
+<!-- Badge row -->
+[![Profile Views](https://komarev.com/ghpvc/?username=YashRahman&label=💜+Visitors&color=FF85A1&style=flat-square)](https://github.com/YashRahman)
+![GitHub followers](https://img.shields.io/github/followers/YashRahman?label=💖+Followers&style=flat-square&color=FF85A1&labelColor=1a0a12)
+![Stars](https://img.shields.io/github/stars/YashRahman?label=⭐+Stars&style=flat-square&color=FFD700&labelColor=1a0a12)
 
-✨ Creative websites
-❤️ Romantic / surprise webpages
-🌐 Interactive web projects
-🤖 Automation tools
+</div>
 
 ---
 
-## 🛠 Tech Stack
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180" />
 
-<p>
+## 💌 &nbsp; A Little About Me
 
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,mongodb,firebase,react"/>
+```yaml
+name: Yash Rahman
+role: Creative Web Developer 🌙
+vibe: "turning feelings into functional beauty"
 
-</p>
+passion:
+  - 💖 Romantic & surprise webpages
+  - ✨ Gorgeous interactive experiences
+  - 🤖 Smart automation & backend magic
+  - 🌸 Making every pixel count
 
----
+currently:
+  building: "something that makes hearts flutter"
+  learning: "anything that sparks curiosity"
+  feeling: "grateful & creative, always"
 
-## 📊 GitHub Stats
+philosophy: >
+  Code is not just logic —
+  it's love letter to whoever uses it. 💌
+```
 
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashRahman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRahman&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YashRahman&theme=tokyonight&hide_border=true&background=00000000">
-
-</p>
+<br clear="right"/>
 
 ---
 
-## 📈 Contribution Graph
+## 💝 &nbsp; What I'm Known For
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRahman&theme=tokyo-night&hide_border=true&bg_color=00000000">
+| 🌸 | Craft | Description |
+|:---:|:---:|:---|
+| 💕 | **Romantic Webpages** | Surprise pages that make hearts skip a beat |
+| ✨ | **Creative Websites** | Unique, unforgettable digital experiences |
+| 🌐 | **Interactive Web Projects** | Animations, interactions & pure visual magic |
+| 🤖 | **Automation Tools** | Smart scripts that save time & add delight |
+| 🎀 | **Beautiful UI/UX** | Because everything deserves to look gorgeous |
 
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-![snake](https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake.svg)
-
-</p>
+</div>
 
 ---
 
-## 👀 Profile Views
+## 🛠️ &nbsp; My Love Language is... Tech Stack
 
-<p align="center">
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YashRahman&label=Profile%20Views&color=E6C068&style=flat">
+### 🌸 Frontend Love
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
-</p>
+### 💜 Backend & Data
+<img src="https://skillicons.dev/icons?i=nodejs,python,mongodb,firebase&theme=dark" />
+
+### 🎀 Tools & More
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
+
+</div>
 
 ---
 
-## 💡 Dev Philosophy
+## 📊 &nbsp; GitHub Love Story
 
-> "Code is not just logic — it's creativity turned into reality."
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YashRahman&show_icons=true&theme=radical&hide_border=true&bg_color=0D0720&title_color=FF85A1&icon_color=FFD700&text_color=E8D5FF&ring_color=FF85A1" height="175" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashRahman&layout=compact&theme=radical&hide_border=true&bg_color=0D0720&title_color=FF85A1&text_color=E8D5FF" height="175" />
+
+</div>
 
 ---
 
-<p align="center">
-⭐ If you like my projects, consider starring them.
-</p>
+## 🔥 &nbsp; Streak of Dedication
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YashRahman&theme=radical&hide_border=true&background=0D0720&ring=FF85A1&fire=FFD700&currStreakLabel=FF85A1&sideLabels=E8D5FF&dates=C084FC&stroke=FF85A150" />
+
+</div>
+
+---
+
+## 📈 &nbsp; Contribution Constellation
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YashRahman&theme=redical&hide_border=true&bg_color=0D0720&color=FF85A1&line=C084FC&point=FFD700" width="95%" />
+
+</div>
+
+---
+
+## 🐍 &nbsp; Watch My Commits Get Eaten 🐍
+
+<div align="center">
+
+![snake gif](https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🏆 &nbsp; GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YashRahman&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
+
+</div>
+
+---
+
+## 🌸 &nbsp; Random Dev Quote (for the soul)
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%" />
+
+</div>
+
+---
+
+## 💌 &nbsp; Dev Philosophy
+
+<div align="center">
+
+> *"Code is not just logic — it's a love letter to whoever uses it."*
+>
+> 💖 Every line I write is crafted with care, every project with heart.
+> Whether it's a romantic surprise page or a slick automation tool —
+> **I pour love into everything I build.**
+
+</div>
+
+---
+
+## 📬 &nbsp; Let's Connect, Shall We? 💌
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YashRahman-FF85A1?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0a12)](https://github.com/YashRahman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-C084FC?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a0a12)](https://github.com/YashRahman)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Footer wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=Made+with+%F0%9F%92%96+by+Yash&fontSize=24&fontColor=FF85A1&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<sub>⭐ If my projects made you smile, a star means the world 💖 ⭐</sub>
+
+</div>
