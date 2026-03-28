@@ -119,13 +119,11 @@ philosophy: >
 
 <div align="center">
 
-<!-- To enable this, set up GitHub Action: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/YashRahman/YashRahman/output/ocean.gif" />
 </picture>
-> 💡 *Snake requires a GitHub Action to generate. [Set it up here →](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)*
 
 </div>
 
@@ -135,7 +133,7 @@ philosophy: >
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashRahman&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YashRahman&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4" width="95%" />
 
 </div>
 
