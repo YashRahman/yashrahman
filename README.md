@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- Heartbeat line -->
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=3000&pause=1200&color=FF85A1&center=true&vCenter=true&width=750&lines=💖+Building+Beautiful+Web+Experiences;🌸+Crafting+Romantic+%26+Surprise+Webpages;✨+Turning+Feelings+into+Pixels;🎀+Where+Code+Meets+Creativity;💫+Making+the+Web+Fall+in+Love+with+Itself" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=26&duration=3000&pause=1200&color=FF85A1&center=true&vCenter=true&width=750&lines=Building+Beautiful+Web+Experiences+%F0%9F%92%96;Crafting+Romantic+%26+Surprise+Webpages+%F0%9F%8C%B8;Turning+Feelings+into+Pixels+%E2%9C%A8;Where+Code+Meets+Creativity+%F0%9F%8E%80;Making+the+Web+Fall+in+Love+%F0%9F%92%AB" alt="Typing SVG" />
 
 <br/>
 
@@ -119,7 +119,14 @@ philosophy: >
 
 <div align="center">
 
-![snake gif](https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake-dark.svg)
+<!-- To enable this, set up GitHub Action: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> 💡 *Snake requires a GitHub Action to generate. [Set it up here →](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)*
 
 </div>
 
@@ -129,7 +136,7 @@ philosophy: >
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YashRahman&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" />
+<img src="https://github-profile-trophy.vercel.app/?username=YashRahman&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" width="95%" />
 
 </div>
 
@@ -139,7 +146,7 @@ philosophy: >
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="80%" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="80%" />
 
 </div>
 
