@@ -121,11 +121,10 @@ philosophy: >
 
 <!-- To enable this, set up GitHub Action: https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YashRahman/YashRahman/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/YashRahman/YashRahman/output/ocean.gif" />
 </picture>
-
 > 💡 *Snake requires a GitHub Action to generate. [Set it up here →](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)*
 
 </div>
